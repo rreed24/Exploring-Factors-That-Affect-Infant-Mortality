@@ -5,7 +5,8 @@ The IMR is particularly higher in the observed community statistical areas in Ba
 
 Looking at our trendline data, we asked: What are the actions that can be taken to reduce/eliminate IMR in different neighborhoods in Baltimore? What are the patterns that can be explored to identify the factors that contribute to this rate?
 
-![image](IMR_LE.png)
+![image](Trend.png)
+
 ## Why is this a problem to address?
 IMR is an important indicator of a community’s physical health; a higher IMR suggests that the city is lacking in meeting human health needs in sanitation, nutrition, education, medical care, etc. Being that in 2009, Baltimore City had the 4th highest IMR in the nation, it’s necessary to address the actions that need to be taken to reduce this number by exploring the factors that contribute. In order to figure out how health institutions can implement better practices to reduce infant mortality rate in different neighborhoods in Baltimore, we started by asking the following questions:
 1. What are the factors correlated to infant mortality rate in different neighborhoods in Baltimore? How significant are the correlations?
@@ -14,11 +15,11 @@ IMR is an important indicator of a community’s physical health; a higher IMR s
 ## Excel Simple/Multiple Linear Regression 
 We ran a MLR analysis on data from 2010 to 2015 and found that the Rsq values stayed almost the same every year; there is a relatively stable relationship between IMR and other factors. Our SLR Rsq values were low compared to the nearly double Rsq value from our MLR suggesting that multiple factors are need to be considered for the model to be a better indicator instead of the IMR being a result of one significant variable. 
 
-(MLR GRAPH)
+![image](IMR_LE.png)
 
 While there is a significant correlation between life expectancy and infant mortality rate (p-value equals 0.04 in 2015), percent of births delivered at term is at the margin of statistical significance in terms of its impact on infant mortality rate with p-value equals 0.06 in 2015.
 
-(REGRESSION DATA)
+![image](Data.png)
 
 ## Cluster Analysis
 ![image](Cluster_Butterfly.png)
