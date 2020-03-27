@@ -10,3 +10,6 @@ Are the connections between the factors stable over time?
 Can we generate geographical patterns from our data? If so, what does it tell us?
 ## Multiple Linear Regression with Excel
 We ran a multi-linear regression analysis on data from 2010 to 2015 and found that the Rsq values stayed almost the same every year. Thus, we concluded that there is a relatively stable relationship between  IMR and other factors.
+(insert graph)
+## Cluster Analysis
+![91028965_519621872033365_1289219272383397888_n](https://user-images.githubusercontent.com/60996310/77718423-4aa23a00-6fb9-11ea-838b-d555e1ee70af.png)
