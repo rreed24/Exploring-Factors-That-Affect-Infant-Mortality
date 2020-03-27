@@ -15,12 +15,20 @@ While there is a significant correlation between life expectancy and infant mort
 (Insert regression data)
 ## Cluster Analysis
 <img width="558" alt="Cluster" src="https://user-images.githubusercontent.com/60996310/77718568-9fde4b80-6fb9-11ea-8c5b-3c6f5b3ab8cd.png">
-### Key
 
-Group 1 (blue): low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality
+*Group 1 (blue): low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality
 Group 2 (orange): average teen birth rate, average % of birth at term, average satisfactory birth weight, average prenatal care, relatively low healthy food index, average life expectancy, relatively high infant mortality
 Group 3 (yellow): high teen birth rate, high % of birth at term, average satisfactory birth weight, average prenatal care, high healthy food index, relatively high life expectancy, low infant mortality
-Group 4 (green): relatively high teen birth rate, low % of birth at term, low satisfactory birth weight, low prenatal care, relatively low healthy food index, low life expectancy, higher infant mortality
+Group 4 (green): relatively high teen birth rate, low % of birth at term, low satisfactory birth weight, low prenatal care, relatively low healthy food index, low life expectancy, higher infant mortality*
 
 Baltimore’s IMR mirrors the troubling statistic that neonatal mortalities (infant mortality within the first 28 days) is highest among infants with Black mothers (Kamal et. al, 2019). Although there is a limited number of CSAs within this dataset, the “Black Butterfly” and "White L" can be seen in our cluster analysis.
+## Data Interpretation
+In our **trendline** data, we saw that IMR gradually decreased (most rapidly from 2013-2015) in the 5 year period as the average percentage of mothers who received prenatal care increased and teen birth rate decreased. We see that increasing availability of healthcare for women expecting and decreasing the number of young mothers may contribute to a lower number of infant deaths.
+
+Our results in the **SLR and MLR** didn’t exactly reflect the literature of what we know about the highest contributing factors in IMR.
+Data from the **SLR** indicates that there’s an 13% correlation between the % of babies born with a satisfactory birth weight and IMR and 26% correlation between % of births delivered at term and IMR. This suggests that the IMR in Baltimore is less due to the typical top reasons for infant death and instead because of underlying reasons more specific to the community. 
+Data from the **MLR** (x-values: teen birth rate, %born with satisfactory birth weight, % delivered at term, life expectancy) have an average correlation of 37% from 2011-2015 implying that these factors combined are a better predictor for the city’s IMR. Focusing on one of these variables alone would not make a significant change to the rate. 
+
+Results from the **cluster analysis** show that most neighborhoods in the black butterfly are at a disadvantage with higher IMR and with it higher teen pregnancies, lower % of births at term, lower % of births with satisfactory weights. There’s an L-shaped cluster that represents neighborhoods with lower IMR aligning with the white L. These results point to a racial disparity even in infant deaths which should encourage future solutions that focus more to providing care and education for racially-disadvantaged neighborhoods. 
+
 
