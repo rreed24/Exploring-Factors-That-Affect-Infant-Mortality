@@ -19,8 +19,11 @@ While there is a significant correlation between life expectancy and infant mort
 <img width="558" alt="Cluster" src="https://user-images.githubusercontent.com/60996310/77718568-9fde4b80-6fb9-11ea-8c5b-3c6f5b3ab8cd.png">
 
 *1. Blue: low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality
+
 2. Orange: average teen birth rate, average % of birth at term, average satisfactory birth weight, average prenatal care, relatively low healthy food index, average life expectancy, relatively high infant mortality
+
 3. Yellow : high teen birth rate, high % of birth at term, average satisfactory birth weight, average prenatal care, high healthy food index, relatively high life expectancy, low infant mortality
+
 4. Green: relatively high teen birth rate, low % of birth at term, low satisfactory birth weight, low prenatal care, relatively low healthy food index, low life expectancy, higher infant mortality*
 
 Baltimore’s IMR mirrors the troubling statistic that neonatal mortalities (infant mortality within the first 28 days) is highest among infants with Black mothers (Kamal et. al, 2019). Although there is a limited number of CSAs within this dataset, the “Black Butterfly” and "White L" can be seen in our cluster analysis.
