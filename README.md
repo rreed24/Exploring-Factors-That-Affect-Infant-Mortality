@@ -11,5 +11,16 @@ Can we generate geographical patterns from our data? If so, what does it tell us
 ## Multiple Linear Regression with Excel
 We ran a multi-linear regression analysis on data from 2010 to 2015 and found that the Rsq values stayed almost the same every year. Thus, we concluded that there is a relatively stable relationship between  IMR and other factors.
 (insert graph)
+While there is a significant correlation between life expectancy and infant mortality rate (p-value equals 0.04 in 2015), percent of births delivered at term is at the margin of statistical significance in terms of its impact on infant mortality rate with p-value equals 0.06 in 2015.
+(Insert regression data)
 ## Cluster Analysis
-![91028965_519621872033365_1289219272383397888_n](https://user-images.githubusercontent.com/60996310/77718423-4aa23a00-6fb9-11ea-838b-d555e1ee70af.png)
+<img width="558" alt="Cluster" src="https://user-images.githubusercontent.com/60996310/77718568-9fde4b80-6fb9-11ea-8c5b-3c6f5b3ab8cd.png">
+### Key
+
+Group 1 (blue): low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality
+Group 2 (orange): average teen birth rate, average % of birth at term, average satisfactory birth weight, average prenatal care, relatively low healthy food index, average life expectancy, relatively high infant mortality
+Group 3 (yellow): high teen birth rate, high % of birth at term, average satisfactory birth weight, average prenatal care, high healthy food index, relatively high life expectancy, low infant mortality
+Group 4 (green): relatively high teen birth rate, low % of birth at term, low satisfactory birth weight, low prenatal care, relatively low healthy food index, low life expectancy, higher infant mortality
+
+Baltimore’s IMR mirrors the troubling statistic that neonatal mortalities (infant mortality within the first 28 days) is highest among infants with Black mothers (Kamal et. al, 2019). Although there is a limited number of CSAs within this dataset, the “Black Butterfly” and "White L" can be seen in our cluster analysis.
+
