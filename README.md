@@ -50,7 +50,7 @@ BHB has done a lot in preventing teen pregnancies, but that alone isn’t enough
 ## Future Suggestions/Analysis
 Our cluster analysis provides insight that confirms mothers of certain races are at a disadvantage. For future research, we recommend that an analysis of what sex and pregnancy education/family planning is provided in these areas and see if it correlates with the IMR in these areas. 
 
-In 2009, sleep-related deaths were the 2nd leading cause of death, something completely preventable; data on post-labor practices would further help identify causes of infant deaths and encourage more specific initiatives on education of preventative measures. 
+In 2009, sleep-related deaths were the 2nd leading cause of infant death, something completely preventable; data on post-labor practices would further help identify causes of infant deaths and encourage more specific initiatives on education of preventative measures. 
 
 With inititiaves that are prepared to provide prenatal care as well as education regarding sex and pregnancies, the IMR should decrease in Baltimore City. This initiative can be adopted in Maryland so that it instead become a model for the rest of the nation. 
 In the future, if initiatives across the U.S. acknowledge they need to participate in community outreach to members of all races and socioeconomic statuses, it’s possible that the IMR will decrease. 
