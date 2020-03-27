@@ -49,7 +49,9 @@ B’more for Healthy Babies (BHB) has seen real results with the CSAs they have 
 BHB has done a lot in preventing teen pregnancies, but that alone isn’t enough as our data suggests; it's crucial to address all contributing factors. Moving forward, it's important to implement initiatives that provide early prenatal care to women of all races, confirming that expecting mothers are following a healthy lifestyle and are well-informed in infant care. There was a decrease in early prenatal care between 2012-2013; it fluctuated from 62.8% to 47.0% and never reached above 50% again for 2014/2015. Moving forward, we think the best solution is to strengthen initiatives like B’more for Healthy Babies so they have the resources to help prevent all risks of IMR in order to decrease the amount of premature births - one of the leading causes of infant deaths (UCI Health). 
 ## Future Suggestions/Analysis
 Our cluster analysis provides insight that confirms mothers of certain races are at a disadvantage. For future research, we recommend that an analysis of what sex and pregnancy education/family planning is provided in these areas and see if it correlates with the IMR in these areas. 
+
 In 2009, sleep-related deaths were the 2nd leading cause of death, something completely preventable; data on post-labor practices would further help identify causes of infant deaths and encourage more specific initiatives on education of preventative measures. 
+
 With inititiaves that are prepared to provide prenatal care as well as education regarding sex and pregnancies, the IMR should decrease in Baltimore City. This initiative can be adopted in Maryland so that it instead become a model for the rest of the nation. 
 In the future, if initiatives across the U.S. acknowledge they need to participate in community outreach to members of all races and socioeconomic statuses, it’s possible that the IMR will decrease. 
 ### Additional Links
