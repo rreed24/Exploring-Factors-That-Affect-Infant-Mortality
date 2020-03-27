@@ -14,6 +14,7 @@ We ran a multi-linear regression analysis on data from 2010 to 2015 and found th
 While there is a significant correlation between life expectancy and infant mortality rate (p-value equals 0.04 in 2015), percent of births delivered at term is at the margin of statistical significance in terms of its impact on infant mortality rate with p-value equals 0.06 in 2015.
 (Insert regression data)
 ## Cluster Analysis
+![91028965_519621872033365_1289219272383397888_n](https://user-images.githubusercontent.com/60996310/77719215-22b3d600-6fbb-11ea-99d3-3ad80dba67b2.png)
 <img width="558" alt="Cluster" src="https://user-images.githubusercontent.com/60996310/77718568-9fde4b80-6fb9-11ea-8c5b-3c6f5b3ab8cd.png">
 
 *Group 1 (blue): low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality
