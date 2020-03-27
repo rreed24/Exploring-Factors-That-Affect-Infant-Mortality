@@ -21,8 +21,7 @@ While there is a significant correlation between life expectancy and infant mort
 (REGRESSION DATA)
 
 ## Cluster Analysis
-![91028965_519621872033365_1289219272383397888_n](https://user-images.githubusercontent.com/60996310/77719215-22b3d600-6fbb-11ea-99d3-3ad80dba67b2.png)
-<img width="558" alt="Cluster" src="https://user-images.githubusercontent.com/60996310/77718568-9fde4b80-6fb9-11ea-8c5b-3c6f5b3ab8cd.png">
+![image](Cluster_Butterfly.png)
 
 *1. Blue: low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality*
 
