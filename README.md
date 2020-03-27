@@ -44,7 +44,7 @@ Results from the **cluster analysis** show that most neighborhoods in the black 
 ## Solution
 B’more for Healthy Babies (BHB) has seen real results with the CSAs they have worked closely with--Upton/Druid Heights, Park Heights, Patterson Park. When looking at the IMR for these three CSAs (listed below), two of the rates have increased since 2011.
 
-(CSA CHART)
+![image](Chart.png)
 
 BHB has done a lot in preventing teen pregnancies, but that alone isn’t enough as our data suggests; it's crucial to address all contributing factors. Moving forward, it's important to implement initiatives that provide early prenatal care to women of all races, confirming that expecting mothers are following a healthy lifestyle and are well-informed in infant care. There was a decrease in early prenatal care between 2012-2013; it fluctuated from 62.8% to 47.0% and never reached above 50% again for 2014/2015. Moving forward, we think the best solution is to strengthen initiatives like B’more for Healthy Babies so they have the resources to help prevent all risks of IMR in order to decrease the amount of premature births - one of the leading causes of infant deaths (UCI Health). 
 ## Future Suggestions/Analysis
