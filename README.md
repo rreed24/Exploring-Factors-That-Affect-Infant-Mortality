@@ -1,7 +1,7 @@
 # Infant Mortality Rate (IMR) in Baltimore
 ## Background 
 Although the US's IMR is decreasing over time, its 5.8 infant deaths in every 1,000 births is still higher compared to other developed countries that average around 3.4 (Kamal et. al, 2019).
-The IMR is particularly higher in the observed community statistical areas in Baltimore compared to other cities as in 2015, it averaged at 10.4.  Through SLR, MLR and Cluster Analysis, we analyzed data of to two out of the three leading causes of IMR - premature birth and low birth weight (Baltimore City Health Department). 
+The IMR is particularly higher in the observed community statistical areas in Baltimore compared to other cities as in 2015 averaging at 10.4.  Through SLR, MLR and Cluster Analysis, we analyzed data from two out of the three leading causes of IMR - premature birth and low birth weight (Baltimore City Health Department). 
 Observing our trendline data, we asked: What are the actions that can be taken to reduce/eliminate IMR in different neighborhoods in Baltimore? What are the patterns that can be explored to identify the factors that contribute to this rate?
 (TRENDLINE GRAPH)
 ## Why is this a problem to address?
@@ -45,6 +45,8 @@ In 2009, sleep-related deaths were the 2nd leading cause of death, something com
 With inititiaves that are prepared to provide prenatal care as well as education regarding sex and pregnancies, the IMR should decrease in Baltimore City. This initiative can be adopted in Maryland so that it instead become a model for the rest of the nation. 
 In the future, if initiatives across the U.S. acknowledge they need to participate in community outreach to members of all races and socioeconomic statuses, it’s possible that the IMR will decrease. 
 ### Additional Links
+Data Source: https://data.baltimorecity.gov
+https://www.opportunityatlas.org/
 http://www.healthybabiesbaltimore.com/about-bhb
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2728659/
 https://www.cdc.gov/nchs/pressroom/sosmap/infant_mortality_rates/infant_mortality.htm
