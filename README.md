@@ -5,7 +5,7 @@ The IMR is particularly higher in the observed community statistical areas in Ba
 
 Looking at our trendline data, we asked: What are the actions that can be taken to reduce/eliminate IMR in different neighborhoods in Baltimore? What are the patterns that can be explored to identify the factors that contribute to this rate?
 
-![image](Trend.png)
+![](Images/Trend.png)
 
 ## Why is this a problem to address?
 IMR is an important indicator of a community’s physical health; a higher IMR suggests that the city is lacking in meeting human health needs in sanitation, nutrition, education, medical care, etc. Being that in 2009, Baltimore City had the 4th highest IMR in the nation, it’s necessary to address the actions that need to be taken to reduce this number by exploring the factors that contribute. In order to figure out how health institutions can implement better practices to reduce infant mortality rate in different neighborhoods in Baltimore, we started by asking the following questions:
@@ -15,14 +15,14 @@ IMR is an important indicator of a community’s physical health; a higher IMR s
 ## Excel Simple/Multiple Linear Regression 
 We ran a MLR analysis on data from 2010 to 2015 and found that the Rsq values stayed almost the same every year; there is a relatively stable relationship between IMR and other factors. Our SLR Rsq values were low compared to the nearly double Rsq value from our MLR suggesting that multiple factors are need to be considered for the model to be a better indicator instead of the IMR being a result of one significant variable. 
 
-![image](IMR_LE.png)
+![](Images/IMR_LE.png)
 
 While there is a significant correlation between life expectancy and infant mortality rate (p-value equals 0.04 in 2015), percent of births delivered at term is at the margin of statistical significance in terms of its impact on infant mortality rate with p-value equals 0.06 in 2015.
 
-![image](Data.png)
+![](Images/Data.png)
 
 ## Cluster Analysis
-![image](Cluster_Butterfly.png)
+![](Images/Cluster_Butterfly.png)
 
 *1. Blue: low teen birth rate, high % of birth at term, high satisfactory birth weight, high prenatal care, low healthy food index, high life expectancy, relatively low infant mortality*
 
@@ -44,7 +44,7 @@ Results from the **cluster analysis** show that most neighborhoods in the black 
 ## Solution
 B’more for Healthy Babies (BHB) has seen real results with the CSAs they have worked closely with--Upton/Druid Heights, Park Heights, Patterson Park. When looking at the IMR for these three CSAs (listed below), two of the rates have increased since 2011.
 
-![image](Chart.png)
+![](Images/Chart.png)
 
 BHB has done a lot in preventing teen pregnancies, but that alone isn’t enough as our data suggests; it's crucial to address all contributing factors. Moving forward, it's important to implement initiatives that provide early prenatal care to women of all races, confirming that expecting mothers are following a healthy lifestyle and are well-informed in infant care. There was a decrease in early prenatal care between 2012-2013; it fluctuated from 62.8% to 47.0% and never reached above 50% again for 2014/2015. Moving forward, we think the best solution is to strengthen initiatives like B’more for Healthy Babies so they have the resources to help prevent all risks of IMR in order to decrease the amount of premature births - one of the leading causes of infant deaths (UCI Health). 
 ## Future Suggestions/Analysis
